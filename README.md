@@ -59,6 +59,7 @@ Oyun, karakterimizin kendisini bir anda yalnız başına kaldığı gizemli bir 
   ![Screenshot 1](https://github.com/emirhansahintr/Bootcamp2023-U2Takimi/blob/main/ProjectManagement/Sprint1/Unity1.png)
   ![Screenshot 2](https://github.com/emirhansahintr/Bootcamp2023-U2Takimi/blob/main/ProjectManagement/Sprint1/Animation1.gif)
   ![Screenshot 3](https://github.com/emirhansahintr/Bootcamp2023-U2Takimi/blob/main/ProjectManagement/Sprint1/Models1.png)
+  Karakter Kontrolcüsü:
 ```csharp
 public CharacterController controller;
 
