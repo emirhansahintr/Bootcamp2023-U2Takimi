@@ -56,7 +56,7 @@ Oyun, karakterimizin kendisini bir anda yalnız başına kaldığı gizemli bir 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product1.png)
+  ![Screenshot 1](https://github.com/emirhansahintr/Bootcamp2023-U2Takimi/blob/main/ProjectManagement/Sprint1/Unity1.png)
   ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product2.png)
   ![Screenshot 3](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product4.gif)
 - **Sprint Review**: 
