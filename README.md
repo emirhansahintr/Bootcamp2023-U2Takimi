@@ -59,7 +59,67 @@ Oyun, karakterimizin kendisini bir anda yalnız başına kaldığı gizemli bir 
   ![Screenshot 1](https://github.com/emirhansahintr/Bootcamp2023-U2Takimi/blob/main/ProjectManagement/Sprint1/Unity1.png)
   ![Screenshot 2](https://github.com/emirhansahintr/Bootcamp2023-U2Takimi/blob/main/ProjectManagement/Sprint1/Animation1.gif)
   ![Screenshot 3](https://github.com/emirhansahintr/Bootcamp2023-U2Takimi/blob/main/ProjectManagement/Sprint1/Models1.png)
-![Screenshot4](https://github.com/emirhansahintr/Bootcamp2023-U2Takimi/blob/main/Assets/Scripts/Character/Movement.cs)
+```csharp
+public CharacterController controller;
+
+    public float speed = 12f;
+    public float sprint = 18f;
+    public float walkspeed = 12f;
+    public float slowspeed = 3f;
+    public float gravity = -9.81f;
+    public float jumpHeight = 3f;
+
+    public Transform groundCheck;
+    public float groundDistance = 0.4f;
+    public LayerMask groundMask;
+
+
+    Vector3 velocity;
+    public bool isGrounded;
+    void Update()
+    {
+        isGrounded = Physics.CheckSphere(groundCheck.position, groundDistance, groundMask);
+
+        if (isGrounded && velocity.y < 0)
+        {
+            velocity.y = -2f;
+        }
+
+        float x = Input.GetAxis("Horizontal");
+        float z = Input.GetAxis("Vertical");
+
+        Vector3 move = transform.right * x + transform.forward * z;
+
+        controller.Move(move * speed * Time.deltaTime);
+        //Jump
+        if (Input.GetButtonDown("Jump") && isGrounded)
+        {
+            velocity.y = Mathf.Sqrt(jumpHeight * -2f * gravity);
+        }
+        //Run
+        if (Input.GetKey(KeyCode.LeftShift) && isGrounded && speed == 12f)
+        {
+            speed = sprint;
+        }
+        else if (Input.GetKeyUp(KeyCode.LeftShift))
+        {
+            speed = walkspeed;
+        }
+        //Slow
+        if (Input.GetKey(KeyCode.LeftControl) && isGrounded && speed == 12f)
+        {
+            speed = slowspeed;
+        }
+        else if (Input.GetKeyUp(KeyCode.LeftControl))
+        {
+            speed = walkspeed;
+        }
+
+        velocity.y += gravity * Time.deltaTime;
+
+        controller.Move(velocity * Time.deltaTime);
+    }
+```
   
 - **Sprint Review:** Karakter kontrollerine karar verilmiş, bir kısmı kodlanmış, otelin genel teması belirlenmiş, animasyonlara başlanmış ve eksikler değerlendirilmiştir. Sprint Review Katılımcıları: Talha Türkarslan, Ömer Hızlı ve Emirhan Şahin
   
