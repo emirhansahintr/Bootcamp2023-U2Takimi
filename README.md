@@ -46,7 +46,7 @@ Oyun, karakterimizin kendisini bir anda yalnız başına kaldığı gizemli bir 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 
 - **Daily Scrum**: Daily Scrum toplantılarını Discord üzerinden sesli bir şekilde yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği png: [Sprint 1 Daily Scrum Chats](https://github.com/emirhansahintr/Bootcamp2023-U2Takimi/blob/main/ProjectManagement/Sprint1/Scrum1.png)
