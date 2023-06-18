@@ -60,9 +60,12 @@ Oyun, karakterimizin kendisini bir anda yalnız başına kaldığı gizemli bir 
   ![Screenshot 2](https://github.com/emirhansahintr/Bootcamp2023-U2Takimi/blob/main/ProjectManagement/Sprint1/Animation1.gif)
 - **Sprint Review**: 
 
-
+- **Sprint review:** Karakter kontrollerine karar verilmiş, bir kısmı kodlanmış, otelin genel teması belirlenmiş, animasyonlara başlanmış ve eksikler değerlendirilmiştir. Sprint Review Katılımcıları: Talha Türkarslan, Ömer Hızlı ve Emirhan Şahin
+  
 - **Sprint Retrospective:**
   - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+  - Roller belirlendi.
+  - Daily scrumları olabildiğince sesli şekilde yapılmaya karar verildi.
  
 
 
