@@ -33,7 +33,7 @@ Oyun, karakterimizin kendisini bir anda yalnız başına kaldığı gizemli bir 
 ## Hedef Kitle
 
 - Korku Severler
-- Bilgisayar oyuncuları 
+- Bilgisayar Oyuncuları 
 
 ## Juriye Not
 
