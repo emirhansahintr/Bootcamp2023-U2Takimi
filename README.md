@@ -17,7 +17,7 @@ Takım Unity U2
 
 ## Product Backlog URL
 
-//
+[Sessiz Otel Trello](https://trello.com/b/N5wxWRjZ/sessiz-otel)
 
 ## Ürün Açıklaması
 
@@ -66,11 +66,4 @@ Oyun, karakterimizin kendisini bir anda yalnız başına kaldığı gizemli bir 
   - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
   - Roller belirlendi.
   - Daily scrumları olabildiğince sesli şekilde yapılmaya karar verildi.
- 
-
-
----
-
-## Product Backlog URL
-[Sessiz Otel Trello](https://trello.com/b/N5wxWRjZ/sessiz-otel)
 ---
