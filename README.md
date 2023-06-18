@@ -72,5 +72,5 @@ Oyun, karakterimizin kendisini bir anda yalnız başına kaldığı gizemli bir 
 ---
 
 ## Product Backlog URL
-
+[Sessiz Otel Trello](https://trello.com/b/N5wxWRjZ/sessiz-otel)
 ---
