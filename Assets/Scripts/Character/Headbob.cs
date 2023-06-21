@@ -8,7 +8,7 @@ public class Headbob : MonoBehaviour
     [SerializeField] private float Amount = 0.003f;
     [Range(1f, 30f)]
     [SerializeField] private float Frequency = 15.0f;
-    [Range(10f, 100f)]
+    [Range(5f, 100f)]
     [SerializeField] private float Smooth = 18.0f;
 
 
@@ -21,7 +21,7 @@ public class Headbob : MonoBehaviour
         }
         else if (movement.speed < 4f)
         {
-            Smooth = 10f;
+            Smooth = 5f;
         }
         else
         {
