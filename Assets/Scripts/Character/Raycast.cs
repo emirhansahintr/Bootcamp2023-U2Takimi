@@ -4,20 +4,22 @@ using UnityEngine;
 
 public class Raycast : MonoBehaviour
 {
-    [SerializeField] private string selectableTag = "Selectable";
+    [SerializeField] private LayerMask selectableObject;
+    [SerializeField] private float distance = 3.5f;
     private void Update()
     {
         var ray = Camera.main.ScreenPointToRay(Input.mousePosition);
 
         RaycastHit hit;
 
-        if (Physics.Raycast(ray, out hit))
+        if (Physics.Raycast(ray, out hit, distance, selectableObject))
         {
             var selection = hit.transform;
 
-            if (Input.GetMouseButtonDown(0) && selection.CompareTag(selectableTag) && hit.distance <= 3.5f)
+            Debug.Log(selection.gameObject.name);
+
+            if (Input.GetMouseButtonDown(0))
             {
-                Debug.Log(selection.gameObject.name);
                 Destroy(selection.gameObject);
             }
 

@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 8647
+  controlID: 9975
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -142,7 +142,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 8648
+  controlID: 9976
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -167,7 +167,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 8626
+  controlID: 9954
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -539,9 +539,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.4912256, y: 4.0068736, z: 0.48359522}
+    m_Target: {x: 0.6424686, y: 1.2316917, z: 7.109483}
     speed: 2
-    m_Value: {x: -1.4912256, y: 4.0068736, z: 0.48359522}
+    m_Value: {x: 0.6424686, y: 1.2316917, z: 7.109483}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -588,9 +588,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.16048375, y: -0.63736665, z: 0.13806279, w: -0.74092954}
+    m_Target: {x: -0.056594416, y: -0.51890874, z: 0.03446356, w: -0.8522758}
     speed: 2
-    m_Value: {x: -0.16048141, y: -0.63735735, z: 0.13806078, w: -0.74091876}
+    m_Value: {x: -0.05659354, y: -0.5189007, z: 0.034463026, w: -0.85226256}
   m_Size:
     m_Target: 2.0808651
     speed: 2
@@ -717,21 +717,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Materials
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Materials
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\emirh\UnityProjects\Sessiz Otel\Bootcamp2023-U2Takimi
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 10}
-    m_SelectedIDs: 10730000
-    m_LastClickedID: 29456
+    m_SelectedIDs: d4710000
+    m_LastClickedID: 29140
     m_ExpandedIDs: 00000000d4710000d671000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -785,8 +785,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: da3effff
-    m_LastClickedInstanceID: -49446
+    m_SelectedInstanceIDs: 74710000
+    m_LastClickedInstanceID: 29044
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
@@ -906,7 +906,7 @@ MonoBehaviour:
     m_CachedPref: 160
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
-  m_LastInspectedObjectInstanceID: -49446
+  m_LastInspectedObjectInstanceID: 29044
   m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0
