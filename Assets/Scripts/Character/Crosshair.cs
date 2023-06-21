@@ -5,7 +5,8 @@ using UnityEngine.UI;
 
 public class Crosshair : MonoBehaviour
 {
-    public Image dot;
+    [SerializeField] private Image dot;
+
     void Start()
     {
         dot.color = Color.white;
