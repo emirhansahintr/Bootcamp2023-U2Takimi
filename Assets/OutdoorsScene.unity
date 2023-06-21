@@ -511,7 +511,7 @@ GameObject:
   - component: {fileID: 251477759}
   - component: {fileID: 251477758}
   - component: {fileID: 251477757}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -850,7 +850,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   selectableObject:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 128
   distance: 3.5
 --- !u!1 &966427458
 GameObject:
@@ -1161,7 +1161,7 @@ GameObject:
   - component: {fileID: 1393177868}
   - component: {fileID: 1393177867}
   - component: {fileID: 1393177866}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cube (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
