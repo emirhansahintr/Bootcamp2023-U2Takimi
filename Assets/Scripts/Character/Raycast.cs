@@ -24,8 +24,16 @@ public class Raycast : MonoBehaviour
                 if (selection.gameObject.CompareTag("Flashlight"))
                 {
                     FlashlightOn();
+                    Destroy(selection.gameObject);
+                    //animation
+                    //ses
                 }
-                Destroy(selection.gameObject);
+
+                if (selection.gameObject.CompareTag("Button1"))
+                {
+                    ElevatorButton1();
+                    //animation
+                }
 
             }
 
@@ -37,5 +45,9 @@ public class Raycast : MonoBehaviour
     {
         flashlight.gameObject.SetActive(true);
         flash_enabled = true;
+    }
+    private void ElevatorButton1()
+    {
+        Debug.Log("Button1");
     }
 }

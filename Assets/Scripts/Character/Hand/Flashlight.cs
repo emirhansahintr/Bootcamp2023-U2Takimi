@@ -13,10 +13,12 @@ public class Flashlight : MonoBehaviour
             if (spotlight.activeInHierarchy)
             {
                 spotlight.SetActive(false);
+                //Ses
             }
             else
             {
                 spotlight.SetActive(true);
+                //Ses
             }
         }
     }

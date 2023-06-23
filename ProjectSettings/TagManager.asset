@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Selectable
   - Flashlight
+  - Button1
   layers:
   - Default
   - TransparentFX
