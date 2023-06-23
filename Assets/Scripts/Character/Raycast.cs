@@ -7,6 +7,8 @@ public class Raycast : MonoBehaviour
     [SerializeField] private LayerMask selectableObject;
     [SerializeField] private float distance = 3.5f;
     [SerializeField] private GameObject flashlight;
+    public bool flash_enabled;
+
     private void Update()
     {
         var ray = Camera.main.ScreenPointToRay(Input.mousePosition);
@@ -21,7 +23,7 @@ public class Raycast : MonoBehaviour
             {
                 if (selection.gameObject.CompareTag("Flashlight"))
                 {
-                    flashlight.gameObject.SetActive(true);
+                    FlashlightOn();
                 }
                 Destroy(selection.gameObject);
 
@@ -29,5 +31,11 @@ public class Raycast : MonoBehaviour
 
         }
 
+    }
+
+    private void FlashlightOn()
+    {
+        flashlight.gameObject.SetActive(true);
+        flash_enabled = true;
     }
 }
