@@ -34,6 +34,10 @@ public class Raycast : MonoBehaviour
                     ElevatorButton1();
                     //animation
                 }
+                if (selection.gameObject.CompareTag("Paper"))
+                {
+                    PapersHistory();
+                }
 
             }
 
@@ -49,5 +53,9 @@ public class Raycast : MonoBehaviour
     private void ElevatorButton1()
     {
         Debug.Log("Button1");
+    }
+    private void PapersHistory()
+    {
+        Debug.Log("Paper");
     }
 }
