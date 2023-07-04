@@ -148,6 +148,9 @@ public CharacterController controller;
 
 - ![fener](https://github.com/emirhansahintr/Bootcamp2023-U2Takimi/assets/129771621/551bedce-1c1e-45f2-a1fa-20890049e147)
 
+- ![texture](https://github.com/emirhansahintr/Bootcamp2023-U2Takimi/assets/129771621/deee3930-5db5-4c01-8ff6-080a2d05144d)
+
+
 
 
  
