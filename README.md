@@ -137,7 +137,7 @@ public CharacterController controller;
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in  150 puan olması gerektiğine karar verildi.
 
-- **Daily Scrum**: Daily Scrum toplantılarını Discord üzerinden sesli bir şekilde yapılmasına karar verilmiştir.
+- **Daily Scrum**: Daily Scrum toplantılarını Discord üzerinden sesli bir şekilde devam edilmesine karar verilmiştir.
 
  Daily Scrum toplantısı örneği png: [Sprint 2 Daily Scrum Chats]
 
