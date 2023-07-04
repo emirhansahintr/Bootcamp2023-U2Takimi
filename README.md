@@ -130,4 +130,4 @@ public CharacterController controller;
   - Daily scrumları olabildiğince sesli şekilde yapılmaya karar verildi.
 ---
 
-# Sprint 1
+# Sprint 2
