@@ -139,6 +139,8 @@ public CharacterController controller;
 
 - **Daily Scrum**: Daily Scrum toplantılarını Discord üzerinden sesli bir şekilde yapılmasına karar verilmiştir.
 
+ Daily Scrum toplantısı örneği png: [Sprint 2 Daily Scrum Chats](https://github.com/emirhansahintr/Bootcamp2023-U2Takimi/assets/129771621/5e9f7299-4be4-439e-85e6-4308c9ac400b)
+
 
 
 - **Sprint board update**: Sprint board screenshotları: 
