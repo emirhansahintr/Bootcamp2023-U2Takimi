@@ -139,7 +139,7 @@ public CharacterController controller;
 
 - **Daily Scrum**: Daily Scrum toplantılarını Discord üzerinden sesli bir şekilde devam edilmesine karar verilmiştir.
 
- Daily Scrum toplantısı örneği png:  [Sprint 2 Daily Scrum Chats](https://github.com/emirhansahintr/Bootcamp2023-U2Takimi/blob/main/ProjectManagement/Sprint1/daily2.png)
+ Daily Scrum toplantısı örneği png:  [Sprint 2 Daily Scrum Chats](https://github.com/emirhansahintr/Bootcamp2023-U2Takimi/blob/main/ProjectManagement/Sprint1/daily2.pnghttps://github.com/emirhansahintr/Bootcamp2023-U2Takimi/blob/main/ProjectManagement/Sprint1/daily%201.png)
 
 
 
