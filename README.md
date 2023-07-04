@@ -131,3 +131,8 @@ public CharacterController controller;
 ---
 
 # Sprint 2
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 150 Puan
+
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in  150 puan olması gerektiğine karar verildi.
