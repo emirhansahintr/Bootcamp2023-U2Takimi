@@ -129,3 +129,5 @@ public CharacterController controller;
   - Roller belirlendi.
   - Daily scrumları olabildiğince sesli şekilde yapılmaya karar verildi.
 ---
+
+# Sprint 1
