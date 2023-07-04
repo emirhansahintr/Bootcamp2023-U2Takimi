@@ -136,3 +136,10 @@ public CharacterController controller;
 
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in  150 puan olması gerektiğine karar verildi.
+
+
+- **Sprint Review:** Karakter etkileşim kodu yazıldı , gerekli 3D modellemeler yapıldı, yeni animasyonlara başlanmış ve eksikler değerlendirilmiştir. Sprint Review Katılımcıları: Talha Türkarslan, Ömer Hızlı ve Emirhan Şahin
+  
+- **Sprint Retrospective:**
+  - Takım üyelerinin gelecek sprintlerde daha aktif olması gerektiğine vurgu yapılmıştır.
+ 
