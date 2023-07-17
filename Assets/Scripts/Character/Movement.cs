@@ -36,10 +36,10 @@ public class Movement : MonoBehaviour
 
         controller.Move(move * speed * Time.deltaTime);
         //Jump
-        if (Input.GetButtonDown("Jump") && isGrounded)
-        {
-            velocity.y = Mathf.Sqrt(jumpHeight * -2f * gravity);
-        }
+        //if (Input.GetButtonDown("Jump") && isGrounded)
+        //{
+        //    velocity.y = Mathf.Sqrt(jumpHeight * -2f * gravity);
+        //}
         //Run
         if (Input.GetKey(KeyCode.LeftShift) && isGrounded && speed == 4.5f)
         {
