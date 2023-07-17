@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
+  companyName: Bootcamp2023U2Takimi
   productName: Sessiz Otel
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
