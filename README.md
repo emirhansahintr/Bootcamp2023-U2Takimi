@@ -37,7 +37,7 @@ Oyun, karakterimizin kendisini bir anda yalnız başına kaldığı gizemli bir 
 
 ## Juriye Not
 
-3 Kişi olduğumuz birimizin işleri sebebiyle birimizin sınavları nedeniyle sürecimiz biraz zor geçiyor.
+3 Kişi olduğumuz birimizin işleri sebebiyle birimizin sınavları nedeniyle sürecimiz biraz zor geçiyor. Son sprintte özel durumlar ve iş-okul sıkıntıları yüzünden istenen seviyeye ulaşılamamıştır.
 
 ---
 
@@ -129,3 +129,43 @@ public CharacterController controller;
   - Roller belirlendi.
   - Daily scrumları olabildiğince sesli şekilde yapılmaya karar verildi.
 ---
+
+# Sprint 2
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 150 Puan
+
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in  150 puan olması gerektiğine karar verildi.
+
+- **Daily Scrum**: Daily Scrum toplantılarını Discord üzerinden sesli bir şekilde devam edilmesine karar verilmiştir.
+
+ Daily Scrum toplantısı örneği png:  [Sprint 2 Daily Scrum Chats](https://github.com/emirhansahintr/Bootcamp2023-U2Takimi/blob/main/ProjectManagement/Sprint1/daily2.png)
+ [Sprint 2 Daily Scrum Chats2](https://github.com/emirhansahintr/Bootcamp2023-U2Takimi/blob/main/ProjectManagement/Sprint1/daily%201.png)
+
+
+
+
+- **Sprint board update**: Sprint board screenshotları: 
+  ![trello](https://github.com/emirhansahintr/Bootcamp2023-U2Takimi/assets/129771621/e5b74dae-23e0-4b3b-8018-95579e6b7339)
+
+- **Ürün Durumu**: Ekran görüntüleri:
+
+- ![fener](https://github.com/emirhansahintr/Bootcamp2023-U2Takimi/assets/129771621/551bedce-1c1e-45f2-a1fa-20890049e147)
+
+- ![texture](https://github.com/emirhansahintr/Bootcamp2023-U2Takimi/assets/129771621/deee3930-5db5-4c01-8ff6-080a2d05144d)
+
+
+
+
+ 
+- **Sprint Review:** Karakter etkileşim kodu yazıldı , gerekli 3D modellemeler yapıldı, yeni animasyonlara başlanmış ve eksikler değerlendirilmiştir. Sprint Review Katılımcıları: Talha Türkarslan, Ömer Hızlı ve Emirhan Şahin
+  
+- **Sprint Retrospective:**
+  - Takım üyelerinin gelecek sprintlerde daha aktif olması gerektiğine vurgu yapılmıştır.
+ 
+# Sprint 3
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 150 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprint'in  150 puan olması gerektiğine karar verildi.
+- - **Daily Scrum**: Daily Scrum toplantılarını Discord üzerinden sesli bir şekilde yapılmasına karar verilmiştir.
