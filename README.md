@@ -37,7 +37,7 @@ Oyun, karakterimizin kendisini bir anda yalnız başına kaldığı gizemli bir 
 
 ## Juriye Not
 
-3 Kişi olduğumuz birimizin işleri sebebiyle birimizin sınavları nedeniyle sürecimiz biraz zor geçiyor.
+3 Kişi olduğumuz birimizin işleri sebebiyle birimizin sınavları nedeniyle sürecimiz biraz zor geçiyor. Son sprintte özel durumlar ve iş-okul sıkıntıları yüzünden istenen seviyeye ulaşılamamıştır.
 
 ---
 
@@ -163,3 +163,9 @@ public CharacterController controller;
 - **Sprint Retrospective:**
   - Takım üyelerinin gelecek sprintlerde daha aktif olması gerektiğine vurgu yapılmıştır.
  
+# Sprint 3
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 150 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprint'in  150 puan olması gerektiğine karar verildi.
+- - **Daily Scrum**: Daily Scrum toplantılarını Discord üzerinden sesli bir şekilde yapılmasına karar verilmiştir.
